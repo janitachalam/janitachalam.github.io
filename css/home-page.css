@@ -95,6 +95,11 @@ h1 {
 }
 
 @media(max-width:767px) {
+
+    .desktop {
+        display: none !important;
+    }
+    
     .intro-text {
         padding-bottom: 15%;
     }
