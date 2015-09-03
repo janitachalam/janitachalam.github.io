@@ -1,1 +1,1 @@
-# Janita Chalam - personal website
+# personal website
